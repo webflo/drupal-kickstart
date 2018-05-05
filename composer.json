@@ -11,6 +11,7 @@
     ],
     "require": {
         "composer/installers": "^1.2",
+        "drupal-composer/drupal-scaffold": "dev-master",
         "drupal/core": "~8.5.3"
     },
     "minimum-stability": "dev",
